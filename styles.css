@@ -1,5 +1,5 @@
 #header {
-    background-image: url(pattern.jpeg);
+    background-image: url(./images/pattern.jpeg);
     font-weight: bold;
     color: khaki;
     text-align: center;
@@ -29,4 +29,9 @@ h1, h2, h4, p {
 
 .paint {
     background-color: skyblue;
+}
+ 
+a {
+    font-weight: bold;
+    color: blue;
 }
